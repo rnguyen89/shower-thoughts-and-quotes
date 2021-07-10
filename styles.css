@@ -2,4 +2,13 @@
 
 body {
   font-family: 'Mate', serif;
+  height: 100vh;
+}
+
+section {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100%;
 }
